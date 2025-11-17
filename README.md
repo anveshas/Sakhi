@@ -12,13 +12,4 @@ This system can be extended to send emergency alerts to contacts, nearby police 
 - Simple command-line workflow
 - Extendable alert system for real-world women’s safety
 
-## Dataset
-- [RAVDESS Emotional Speech Audio](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio)
-
-## Usage
-
-```bash
-python main.py --audio path/to/audio.wav
-```
-
 ---
