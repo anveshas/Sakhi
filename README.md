@@ -18,7 +18,3 @@ This system can be extended to send emergency alerts to contacts, nearby police 
 - Backend: FastAPI, Uvicorn ASGI server
 - Frontend: HTML5, CSS, JavaScript, MediaRecorder API, Geolocation API
 - Alerting & Communication: Twilio API
-
----
-
-
