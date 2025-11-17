@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.eggs/
+
+# Virtualenvs
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.iml
+
+# Model and data artifacts
+*.pkl
+*.joblib
+acoustic_features.joblib
+labels.joblib
+random_forest_model.pkl
+
+# Audio / uploads / temp
+temp*
+tmp*
+*.wav
+*.mp3
+*.webm
+
+# Logs
+*.log
+
+# Other
+*.sqlite3
+.pytest_cache/
+node_modules/
+start
